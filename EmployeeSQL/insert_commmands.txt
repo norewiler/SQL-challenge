@@ -1,0 +1,7 @@
+--COPY commands to be run in SQL shell to insert data
+\COPY titles FROM 'C:\Users\Vega\Documents\Classwork\HomeWork\SQL-challenge\EmployeeSQL\titles.csv' DELIMITER ',' CSV HEADER;
+\COPY employees FROM 'C:\Users\Vega\Documents\Classwork\HomeWork\SQL-challenge\EmployeeSQL\employees.csv' DELIMITER ',' CSV HEADER;
+\COPY departments FROM 'C:\Users\Vega\Documents\Classwork\HomeWork\SQL-challenge\EmployeeSQL\departments.csv' DELIMITER ',' CSV HEADER;
+\COPY dept_manager FROM 'C:\Users\Vega\Documents\Classwork\HomeWork\SQL-challenge\EmployeeSQL\dept_manager.csv' DELIMITER ',' CSV HEADER;
+\COPY dept_emp FROM 'C:\Users\Vega\Documents\Classwork\HomeWork\SQL-challenge\EmployeeSQL\dept_emp.csv' DELIMITER ',' CSV HEADER;
+\COPY salaries FROM 'C:\Users\Vega\Documents\Classwork\HomeWork\SQL-challenge\EmployeeSQL\salaries.csv' DELIMITER ',' CSV HEADER;
