@@ -1,7 +1,8 @@
 # SQL-challenge
 BootCamp SQL Homework
 
-In the EmployeesSQL folder there are the following.
+In the EmployeesSQL folder there are the following:
+
     .csv files (provided) for each of the tables.
 
     table_schemas.sql, a file with the queries/commands to set up the schema for each of the tables.
